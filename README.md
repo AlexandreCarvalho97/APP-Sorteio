@@ -1,7 +1,7 @@
 # APP-Sorteio
 ## Criando primeiro App no **AndroidStudio**
-### O App Sorteio básicamento sorteia um número de 0 a 10 ao clicando no botão [JOGAR].
-### Ao clicar no botão [CLIQUE AQUI!] aparece uma mensagem de agradecimento.
+### O App Sorteio básicamente sorteia um número de 0 a 10, clicando no botão [JOGAR].
+### Ao clicar no botão [CLIQUE AQUI!], aparece uma mensagem de agradecimento.
 
 
 
